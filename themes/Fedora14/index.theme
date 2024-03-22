@@ -1,0 +1,12 @@
+[X-GNOME-Metatheme]
+Name=Fedora 14
+Comment=Fedora default theme
+Type=X-GNOME-Metatheme
+Encoding=UTF-8
+GtkTheme=Fedora14Clearlooks
+MetacityTheme=Fedora14Clearlooks
+IconTheme=Fedora14
+NotificationTheme=slider
+CursorTheme=dmz-aa
+CursorSize=24
+
